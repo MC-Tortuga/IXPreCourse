@@ -1,1 +1,1 @@
-Pre- course assessment for Fullstack
+Pre-course assessment for Fullstack
